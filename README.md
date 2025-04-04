@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/bilginba"><img src="https://api.daily.dev/devcards/v2/yYiDSr3sriFROvHoAVgvT.png?type=default&r=vin" width="356" alt="Batuhan Bilgin's Dev Card"/></a>
+<a href="https://app.daily.dev/bilginba"><img src="https://api.daily.dev/devcards/v2/yYiDSr3sriFROvHoAVgvT.png?type=wide&r=vin" width="652" alt="Batuhan Bilgin's Dev Card"/></a>
 
 <!--
 **bilginba/bilginba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
